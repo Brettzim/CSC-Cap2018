@@ -1,2 +1,2 @@
 # CSC-Cap2018
-This is the senior capstone project by John Victor. 
+This is the senior capstone project by John.
