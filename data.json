@@ -1,0 +1,268 @@
+{"d":
+    [
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 739,
+        "STREET": "NOBLE AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "8/31/17",
+        "POSTCODE": 10473
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1500,
+        "STREET": "NOBLE AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "1/4/18",
+        "POSTCODE": 10460
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1333,
+        "STREET": "NOBLE AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "6/27/16",
+        "POSTCODE": 10472
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2148,
+        "STREET": "NEWBOLD AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "5/3/17",
+        "POSTCODE": 10462
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2055,
+        "STREET": "NEREID AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "4/22/15",
+        "POSTCODE": 10466
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2055,
+        "STREET": "NEREID AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "2/15/15",
+        "POSTCODE": 10466
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2055,
+        "STREET": "NEREID AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "7/16/14",
+        "POSTCODE": 10466
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1639,
+        "STREET": "NELSON AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "12/8/16",
+        "POSTCODE": 10453
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1600,
+        "STREET": "NELSON AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "5/28/14",
+        "POSTCODE": 10453
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1525,
+        "STREET": "NELSON AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "5/2/18",
+        "POSTCODE": 10452
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 80,
+        "STREET": "WEST 167 STREET",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "5/14/15",
+        "POSTCODE": 10452
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 4419,
+        "STREET": "MURDOCK AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "2/15/17",
+        "POSTCODE": 10466
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 220,
+        "STREET": "MT HOPE PLACE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "9/8/17",
+        "POSTCODE": 10457
+        },
+        {
+        "BOROUGH": "QN",
+        "NUMBER": "102-40",
+        "STREET": "JAMES COURT",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "1/17/18",
+        "POSTCODE": 11414
+        },
+        {
+        "BOROUGH": "MN",
+        "NUMBER": 100,
+        "STREET": "WEST 92 STREET",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "6/2/14",
+        "POSTCODE": 10025
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1171,
+        "STREET": "MORRISON AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "6/21/17",
+        "POSTCODE": 10472
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1121,
+        "STREET": "MORRISON AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "12/11/13",
+        "POSTCODE": 10472
+        },
+        {
+        "BOROUGH": "MN",
+        "NUMBER": 505,
+        "STREET": "COLUMBUS AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "2/14/13",
+        "POSTCODE": 10024
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 658,
+        "STREET": "MORRIS PARK AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "4/4/13",
+        "POSTCODE": 10462
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 632,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Habitability",
+        "VACATE EFFECTIVE DATE": "1/15/14",
+        "POSTCODE": 10451
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 562,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "5/8/13",
+        "POSTCODE": 10451
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2420,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "10/27/17",
+        "POSTCODE": 10468
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2338,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "9/30/13",
+        "POSTCODE": 10468
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2338,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "9/30/13",
+        "POSTCODE": 10468
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2200,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "7/24/14",
+        "POSTCODE": 10453
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2199,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "8/22/16",
+        "POSTCODE": 10453
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 2038,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "10/10/13",
+        "POSTCODE": 10453
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1711,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "2/24/15",
+        "POSTCODE": 10457
+        },
+        {
+        "BOROUGH": "QN",
+        "NUMBER": "34-39A",
+        "STREET": "107 STREET",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "12/15/16",
+        "POSTCODE": 11368
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1330,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "7/24/13",
+        "POSTCODE": 10456
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1062,
+        "STREET": "MORRIS AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "7/18/17",
+        "POSTCODE": 10456
+        },
+        {
+        "BOROUGH": "SI",
+        "NUMBER": 143,
+        "STREET": "SWAIM AVENUE",
+        "PRIMARY VACATE REASON": "Illegal Occupancy",
+        "VACATE EFFECTIVE DATE": "6/9/16",
+        "POSTCODE": 10312
+        },
+        {
+        "BOROUGH": "BX",
+        "NUMBER": 1750,
+        "STREET": "MONTGOMERY AVENUE",
+        "PRIMARY VACATE REASON": "Fire Damage",
+        "VACATE EFFECTIVE DATE": "12/14/15",
+        "POSTCODE": 10453
+        }
+    ]
+}
