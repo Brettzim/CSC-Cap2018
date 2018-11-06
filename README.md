@@ -1,2 +1,4 @@
 # CSC-Cap2018
-This is Bretts branch. lol
+
+This is the senior capstone project by John Victor.
+
