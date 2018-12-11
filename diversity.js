@@ -65,10 +65,6 @@ function finaldiversity(dc_data) {
     for (i = 0; i < score.length; i++) {
         var dc = {
             neighborhood_cluster : dc_data[i]["neighborhood_cluster"],
-            pct_black : dc_data[i]["Pct_black"],
-            pct_white : dc_data[i]["Pct_white"],
-            pct_hispanic : dc_data[i]["Pct_Hispanic"],
-            pct_asian_pi : dc_data[i]["Pct_Asian_PacificIslander"],
             score : score[i]
         };
         dc_data_list.push(dc);
@@ -76,7 +72,4 @@ function finaldiversity(dc_data) {
     return dc_data_list;
 };
 
-//var diversityscore = finaldiversity(dc_data);
-
 module.exports = finaldiversity;
-//exports.finaldiversity = diversityscore;

@@ -1,4 +1,4 @@
-var finalcrime = function (dc_data) {
+function finalcrime(dc_data) {
     // Violent crimes make up 24/40 points, Property crimes make up 16/40 points
 
     var dc_data_list = [];
@@ -69,8 +69,6 @@ var finalcrime = function (dc_data) {
     for (i = 0; i < combinescore.length; i++) {
         var dc = {
             neighborhood_cluster : dc_data[i]["neighborhood_cluster"],
-            Violent_crimes : dc_data[i]["Violent_crimes"],
-            Property_crimes : dc_data[i]["Property_crimes"],
             score : combinescore[i]
         };
         dc_data_list.push(dc);
@@ -79,7 +77,3 @@ var finalcrime = function (dc_data) {
 };
 
 module.exports = finalcrime;
-
-//var crimescore = finalcrime(dc_data);
-
-//exports.finalcrime = crimescore;

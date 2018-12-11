@@ -178,5 +178,4 @@ function finaleconomics(dc_data) {
     return dc_data_list;
 };
 
-//console.log(finaleconomics(dc_data));
 module.exports = finaleconomics;

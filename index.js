@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3000;
-const dc_data = require('./dcdata.json');
+//const dc_data = require('./dcdata.json');
 
 var ds = require('./diversity.js');
 var cs = require('./crime.js');
