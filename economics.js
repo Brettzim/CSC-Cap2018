@@ -1,5 +1,3 @@
-const dc_data = require('./dcdata.json');
-
 function finaleconomics(dc_data) {
     var dc_data_list = [];
     var povertyscores = [];

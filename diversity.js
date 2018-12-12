@@ -1,4 +1,3 @@
-//var finaldiversity = function (dc_data) {
 function finaldiversity(dc_data) {
     var dc_data_list = [];
     var score = [];
