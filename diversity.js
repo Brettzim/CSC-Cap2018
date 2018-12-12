@@ -64,6 +64,7 @@ function finaldiversity(dc_data) {
     for (i = 0; i < score.length; i++) {
         var dc = {
             neighborhood_cluster : dc_data[i]["neighborhood_cluster"],
+            Neighborhood_name : dc_data[i]["Neighborhood_name"],
             score : score[i]
         };
         dc_data_list.push(dc);

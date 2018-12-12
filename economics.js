@@ -169,6 +169,7 @@ function finaleconomics(dc_data) {
     for (i = 0; i < combinescore.length; i++) {
         var dc = {
             neighborhood_cluster : dc_data[i]["neighborhood_cluster"],
+            Neighborhood_name : dc_data[i]["Neighborhood_name"],
             score : combinescore[i]
         };
         dc_data_list.push(dc);
